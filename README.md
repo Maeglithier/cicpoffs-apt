@@ -38,4 +38,4 @@ sudo rm /etc/apt/sources.list.d/cicpoffs.list
 
 # Copyright
 
-O instalador do cicpoffs (arquivos deb) são distribuidos sob a licença MIT.
+O instalador do cicpoffs (arquivos deb) são distribuidos sob a licença GPL-2.0.
