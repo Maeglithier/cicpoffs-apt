@@ -34,7 +34,7 @@ sudo rm /etc/apt/sources.list.d/cicpoffs.list
 
 # Checksum
 
-1607fe3d997594e614444a0cf50a7e1f25a5b84a6fe6df5f2ead17e41f585d81 pool/main/c/cicpoffs/cicpoffs_0.2_amd64.deb
+1607fe3d997594e614444a0cf50a7e1f25a5b84a6fe6df5f2ead17e41f585d81  pool/main/c/cicpoffs/cicpoffs_0.2_amd64.deb
 
 # Copyright
 

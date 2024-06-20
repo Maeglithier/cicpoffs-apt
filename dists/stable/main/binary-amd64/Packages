@@ -1,0 +1,16 @@
+Package: cicpoffs
+Version: 0.2
+Architecture: amd64
+Essential: no
+Depends: fuse3, libfuse-dev, libfuse3-dev, libattr1-dev
+Installed-Size: 1024
+Maintainer: adlerosn@gmail.com
+Priority: optional
+Section: custom
+Filename: pool/main/c/cicpoffs/cicpoffs_0.2_amd64.deb
+Size: 14684
+SHA256: 1607fe3d997594e614444a0cf50a7e1f25a5b84a6fe6df5f2ead17e41f585d81
+SHA1: 661736eb7fb64a69aca034b0b07eb85e580c4686
+MD5sum: c609e1fa471891e5d0b5ede588705280
+Description: Case-Insensitive Case-Preserving Overlay FUSE File System
+
